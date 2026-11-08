@@ -1,0 +1,13 @@
+# Only used if this API is deployed on Netlify. Other hosts ignore this file.
+[build]
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/healthz"
+  to = "/.netlify/functions/api/healthz"
+  status = 200

@@ -1,0 +1,32 @@
+[
+  {
+    "q": "What exactly goes wrong in Parkinson's disease?",
+    "a": "Deep inside the brain sit clusters of cells called the basal ganglia — the volume control and smoothing filter for movement. In Parkinson's disease, dopamine-producing cells slowly die off, and without enough dopamine this circuit falls out of rhythm. The result is tremor, stiffness and slowness. Medicines like levodopa replace the missing dopamine and work beautifully for years, but the effect can wear off and produce involuntary movements over time — which is when surgery enters the discussion.",
+    "to": "/services/movement-disorders"
+  },
+  {
+    "q": "So what is Deep Brain Stimulation?",
+    "a": "DBS is a pacemaker for the brain. Thin electrodes are placed with millimetre precision into the misfiring circuit — usually the subthalamic nucleus or globus pallidus — and a small battery under the collarbone delivers continuous, gentle pulses that calm the abnormal firing. Nothing is destroyed, and the effect is adjustable and fully reversible. It helps tremor, stiffness, slowness and dyskinesias, but not balance, freezing, speech or memory problems, and it does not cure Parkinson's.",
+    "to": "/services/movement-disorders"
+  },
+  {
+    "q": "My medicines aren't controlling my seizures. Now what?",
+    "a": "About one in three patients continue to have seizures despite medication. If seizures persist after two appropriate, well-tolerated medicines, the epilepsy is called drug-resistant — and the chance a third or fourth drug alone brings lasting freedom is small. At that point, the better question isn't which drug to try next, but where the seizures are actually coming from.",
+    "to": "/services/epilepsy"
+  },
+  {
+    "q": "What can epilepsy surgery actually achieve?",
+    "a": "It depends on what a presurgical evaluation — video-EEG monitoring, high-resolution MRI, and sometimes SEEG — finds. For the most common surgically treatable form, seizures arising from the mesial temporal lobe, resective surgery gives long-term seizure freedom to a majority of well-selected patients. Where the seizure focus can't be safely removed, neuromodulation options like vagus nerve stimulation or thalamic DBS can meaningfully reduce seizure frequency, even though they rarely eliminate seizures completely.",
+    "to": "/services/epilepsy"
+  },
+  {
+    "q": "Why do muscles stay stiff after a stroke?",
+    "a": "Your spinal cord contains reflex loops that are normally kept in check by a constant calming signal from the brain. When that pathway is damaged by stroke, cerebral palsy, spinal injury or multiple sclerosis, the brakes are lost and the reflexes run unchecked — muscles stay tight, resistant and sometimes painful. Left untreated over years, this spasticity can lead to fixed joint deformities, which is why it's treated in escalating steps from therapy through to surgery.",
+    "to": "/services/spasticity"
+  },
+  {
+    "q": "If nerves are the problem, can we work on the wiring?",
+    "a": "Yes — that's the idea behind spinal cord stimulation. Fine electrodes placed in the epidural space, connected to a small implanted battery, interfere with pain signals travelling up to the brain, reducing how much pain is actually perceived. You get to test it first: a temporary trial lead is worn at home for several days before deciding on a permanent implant, so nothing is committed to until it's shown to help.",
+    "to": "/services/chronic-pain"
+  }
+]
