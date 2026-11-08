@@ -2,6 +2,11 @@
 [build]
   functions = "netlify/functions"
 
+[build.environment]
+  NODE_VERSION = "20"
+  # devDependency mongodb-memory-server downloads a MongoDB binary on install; tests only, not needed to deploy.
+  MONGOMS_DISABLE_POSTINSTALL = "1"
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/api/:splat"
