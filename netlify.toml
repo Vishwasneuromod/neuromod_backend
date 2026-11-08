@@ -6,6 +6,9 @@
   NODE_VERSION = "20"
   # devDependency mongodb-memory-server downloads a MongoDB binary on install; tests only, not needed to deploy.
   MONGOMS_DISABLE_POSTINSTALL = "1"
+  # These two are plain config (a database name and the site's public origin), not secrets, and they appear in docs/tests.
+  # MONGODB_URI and HASHNODE_TOKEN are real secrets and stay scanned.
+  SECRETS_SCAN_OMIT_KEYS = "CORS_ORIGINS,MONGODB_DB"
 
 [[redirects]]
   from = "/api/*"
